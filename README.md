@@ -13,8 +13,8 @@ I am a passionate developer with an interest in Web Development and Software Dev
 
 ## Skills
 
-- **Languages:** C, Java
-- **Frameworks:** Familiar with Spring Boot
+- **Languages:** C, Java, python, JavaScript
+- **Frameworks:** BootStrap, Familiar with Spring Boot
 - **Tools & Technologies:** Visual Studio Code, STS - Spring Tool Suite, RestAPI
 
 <!-- ## Projects
