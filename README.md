@@ -1,4 +1,4 @@
-# Hi there, I'm vignxhh! 👋
+# Hi there, I'm Vignesh! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/vignxhh?label=Follow&style=social)](https://github.com/vignxhh)
 [![Linkedin Badge](https://img.shields.io/badge/-vignxhh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vignxhh/)](https://www.linkedin.com/in/vignxhh/)
@@ -7,7 +7,7 @@
 
 I am a passionate developer with an interest in Web Development and Software Development. I enjoy learning new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently diving🏊‍♂️ into Java.
 - 👯 I’m looking to collaborate on Back-End Development.
 - 📫 How to reach me: vignxhh@gmail.com.
 
