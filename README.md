@@ -26,9 +26,9 @@ Here are a few projects I've worked on:
 3. **[Project Name](link-to-project-repo):** Brief description of the project.
 -->
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![vignxhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignxhh&show_icons=true&theme=radical)
+![vignxhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignxhh&show_icons=true&theme=radical) -->
 
 ## Top Languages
 
